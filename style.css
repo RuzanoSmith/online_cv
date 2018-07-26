@@ -11,11 +11,16 @@ h2 {
     font-family: "Arial Nova Cond";
 }
 
-p1 {
-    font-family: "Arial Rounded MT Bold";
-font-size: larger;
+body {
+    background-color: aqua;
+    /*background-image: url("http://ncee.org.uk/wp-content/uploads/2018/01/Hertfordshire-Logo.jpg"); */
 }
 
-p2 { font-size: medium;
-    font-family: "Arial Nova Cond";
+.test_size{
+    font-size: 14px;
+    color: red;
+}
+
+#test_id{
+    font-size: 24px;
 }
