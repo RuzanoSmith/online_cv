@@ -17,10 +17,14 @@ body {
 }
 
 .test_size{
-    font-size: 14px;
+    font-size: 18px;
     color: red;
+
 }
 
 #test_id{
-    font-size: 24px;
+    font-size: 20px;
+}
+
+container{ background-position: center;
 }
