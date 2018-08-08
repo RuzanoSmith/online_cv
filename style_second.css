@@ -1,11 +1,18 @@
 h1{ font-size: xx-large;
     font-family: "Arial Nova Cond";
-    color: black;
+    color: lightseagreen;
 }
 
-p{color: red;
+p{color: azure;
     font-size: larger;
 }
 body{
-    background-color: aquamarine;
+    /*background-color: burlywood;*/
+    background-image: url("http://miriadna.com/desctopwalls/images/max/Perfect-reflected.jpg");
+}
+
+li{
+    color: azure;
+    font-family: "Arial Nova Cond";
+    font-size: large;
 }

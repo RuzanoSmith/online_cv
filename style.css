@@ -1,5 +1,5 @@
 h1 {
-    color: black;
+    color: royalblue;
     font-size: xx-large;
     font-family: Arial;
     background-position-x: center;
@@ -7,19 +7,23 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: orange;
     font-size: x-large;
     font-family: "Arial Nova Cond";
 }
 
 body {
-    background-color: aqua;
-    /*background-image: url("http://ncee.org.uk/wp-content/uploads/2018/01/Hertfordshire-Logo.jpg"); */
-}
+    /*background-color: navajowhite;*/
+    background-image: url("http://harveyroad.herts.sch.uk/wp-content/uploads/2015/01/image6.jpeg");
+    background-size: 180px;
+    background-repeat: no-repeat;
+    background-position-x: right;
 
+
+}
 .test_size{
     font-size: 18px;
-    color: red;
+    color: royalblue;
 
 }
 
@@ -29,3 +33,4 @@ body {
 
 container{ background-position: center;
 }
+
